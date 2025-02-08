@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&family=Noto+Sans+Thai:wght@100..900&family=Tiny5&display=swap');
+
+* {
+  font-family: "Noto Sans Thai", "Fira Code", serif;
+  font-weight: 400;
+}
+
+.tiny5-regular {
+  font-family: "Tiny5", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/* .noto-sans-thai {
+  font-family: "Noto Sans Thai", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+} */
+
+.fira-code {
+  font-family: "Fira Code", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
